@@ -2,4 +2,4 @@
 
 website built using first time experience of node, npm and tailwind css.
 
-https://codinaiy.github.io/website-with-tailwind/build
+deployed to render https://acme-rockets-website-813a.onrender.com
